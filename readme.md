@@ -8,23 +8,23 @@ Artur Bytyqi
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 
-   Da ich gestern neu in der Klasse gekommen bin, habe ich keine Noten und kann diese Frage nicht richtig beantworten. Ich würde sagen, da ich sowieso in der ersten       Klasse gut war, denke ich, dass die Noten kein Problem sein werden.
+   *Da ich gestern neu in der Klasse gekommen bin, habe ich keine Noten und kann diese Frage nicht richtig beantworten. Ich würde sagen, da ich sowieso in der ersten Klasse gut war, denke ich, dass die Noten kein Problem sein werden.*
    
 3. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 
-   Ich kann diese Frage nicht beantworten, da ich gestern neu gekommen bin.
+   *Ich kann diese Frage nicht beantworten, da ich gestern neu gekommen bin.*
    
 5. **Neu**: Was möchten Sie Neues lernen?
 
-   Ich möchte mich mit allem Stoff zurecht finden und den aktuellen Stand finden.
+   *Ich möchte mich mit allem Stoff zurecht finden und den aktuellen Stand finden.*
    
 7. Was wäre ein geeignetes Projekt für diese LP4?
 
-   Ein richtiges Projekt zu starten wäre zu schnell finde ich, also denke ich, dass ich als top Priorität mich zuerst zurechtfinden muss.
+   *Ein richtiges Projekt zu starten wäre zu schnell finde ich, also denke ich, dass ich als top Priorität mich zuerst zurechtfinden muss.*
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute hab ich...
 
 ## 27.2.2024
 

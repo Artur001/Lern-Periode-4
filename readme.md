@@ -24,7 +24,7 @@ Artur Bytyqi
 
 ## 20.2.2024
 
-Heute hab ich...
+Heute habe ich mein Bestes gegeben, um den Stoff zu verstehen, ohne mich zu sehr zu stressen. Es war nicht einfach, aber ich habe es geschafft. Trotzdem muss ich noch einiges nachholen. Hoffentlich bin ich bis nächste Woche bereit, normal weiterzumachen. Es war anstrengend, aber ich bin froh, dass ich durchgehalten habe und darauf hoffe, dass ich bald wieder den Überblick behalte. (62 Wörter) 
 
 ## 27.2.2024
 

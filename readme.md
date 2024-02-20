@@ -31,6 +31,11 @@ Heute hab ich...
 - [ ] Erstes Arbeitspaket
 - [ ] ...
 - [ ] Viertes AP
+      
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| ---- | ----- | --------- | ------------ | ------------- |
+| 1.A  |       |           |              |               |
+| ...  |       |           |              |               |
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |

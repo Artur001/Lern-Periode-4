@@ -28,26 +28,23 @@ Heute habe ich mein Bestes gegeben, um den Stoff zu verstehen, ohne mich zu sehr
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
-      
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+- [ ] Fertig zurechtfinden mit dem Stoff (45 min)
+- [ ] Anfangen Modul 187 anzuschauen (90min)
+- [ ] Anderes Modul anfangen (30min)
+- [ ] Für das Modul auf Mittwoch fertig arbeiten (45min)
 
 
+Heute habe ich zuerst knappe zwei Stunden verschlafen. Dann habe ich versucht, mich mit dem Stoff zurechtzufinden. Das hat etwa 45 Minuten gedauert. Dann habe ich angefangen, das Modul 187 anzuschauen, das hat ungefähr eineinhalb Stunden gebraucht. Kurz habe ich noch ein anderes Modul begonnen, das waren so ungefähr 30 Minuten. Zum Schluss habe ich mich noch bisschen über 45 Minuten auf das Modul vorbereitet, das am Mittwoch ist. Es war ein normaler Arbeitstag, obwohl ich so lange geschlafen habe.
+
+## 05.3.2024
+
+- [ ] Falls ich nicht viel für Tests gelernt habe, nochmals Zusammenfassungen durchgehen (120min, sonst 30min)
+- [ ] Ein einfaches Programmierprojekt heraussuchen und anfangen (15min)
+- [ ] Programmierprojekt programmieren (180min)
+- [ ] Code auf Github hochladen und alles andere noch fertigstellen für das nächste mal (30min)
+
+
+Heute habe ich...
 
 ## Reflexion
 
